@@ -7,5 +7,5 @@ Exactly as with seqpdist, but with the additional 'method' options:
 * 'gtr' (The most general neutral, independent, finite-sites, time-reversible model possible)
  
 ## References
-* en.wikipedia.org/wiki/Models_of_DNA_evolution
+* www.wikipedia.org/wiki/Models_of_DNA_evolution
 * www.ncbi.nlm.nih.gov/pmc/articles/PMC1274259
